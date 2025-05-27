@@ -29,10 +29,8 @@ How to Run
 
 Controls  
 - Press 'Q' → Exit the program  
-- Press 'C' → Clear motion trails and restart tracking  
-
-Example Output  
-![Optical Flow Example](https://via.placeholder.com/600x300)  
+- Press 'C' → Clear motion trails and restart tracking
+- 
 How It Works  
 1. Detects keypoints in the first frame using Shi-Tomasi Corner Detection  
 2. Tracks movement of these keypoints across frames using Lucas-Kanade Optical Flow  
